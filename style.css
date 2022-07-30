@@ -1,0 +1,95 @@
+body {
+    background-color: #3772FF;
+}
+
+.fim {
+    background-color: #36D6AD;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 10%;
+    
+
+}
+
+.fim h3 {
+    position: fixed;
+    left: 550px;
+
+
+
+
+}
+
+.imagem-fim img {
+    position: fixed;
+    left: 550px;
+    bottom: 40px;
+    width: 250px;
+}
+
+.login{
+    position: absolute;
+    width: 362px;
+    height: 48px;
+    left: 309px;
+    top: 204px;
+
+    background: #FC7071;
+    border-radius: 6px;
+}
+
+.cadastro{
+    position: absolute;
+    width: 362px;
+    height: 48px;
+    left: 680px;
+    top: 204px;
+
+    background: #FC7071;
+    border-radius: 6px;
+}
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+h1{
+    position: absolute;
+    width: 233px;
+    height: 48px;
+    left: 600px;
+    top: 24px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 48px;
+    /* identical to box height, or 171% */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+p {
+    position: absolute;
+width: 488px;
+height: 52px;
+left: 450px;
+top: 104px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+/* or 144% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
